@@ -1,0 +1,174 @@
+{
+  "watches": [
+    {
+      "id": 1,
+      "name": "Смарт-часы Apple Watch S5 44mm SpGray Sport Band (MWVF2RU/A)",
+      "price": "33990",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/30045468b.jpg",
+      "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-s5-44mm-spgray-sport-band-mwvf2ru-a--30045468",
+      "likes": "28",
+      "brand": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Бампер для Apple Watch X-Doria Defense Edge Apple Watch 40mm серебряный",
+      "price": "695",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/50125437b.jpg",
+      "url": "https://www.mvideo.ru/products/bamper-dlya-apple-watch-x-doria-defense-edge-apple-watch-40mm-serebryanyi-50125437",
+      "likes": "2",
+      "brand": "X-Doria"
+    },
+    {
+      "id": 3,
+      "name": "Смарт-часы Apple Watch S5 40mm Silver Sport Band (MWV62RU/A)",
+      "price": "31990",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/30045466b.jpg",
+      "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-s5-40mm-silver-sport-band-mwv62ru-a--30045466",
+      "likes": "7",
+      "brand": "Apple"
+    },
+    {
+      "id": 4,
+      "name": "Смарт-часы Apple Watch S3 38mm Silver Al/White Sport Band",
+      "price": "15490",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/30040332b.jpg",
+      "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-s3-38mm-silver-al-white-sport-band-30040332",
+      "likes": "59",
+      "brand": "Apple"
+    },
+    {
+      "id": 5,
+      "name": "Бампер для Apple Watch X-Doria Defense Edge Apple Watch 40mm черный",
+      "price": "990",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/50125438b.jpg",
+      "url": "https://www.mvideo.ru/products/bamper-dlya-apple-watch-x-doria-defense-edge-apple-watch-40mm-chernyi-50125438",
+      "likes": "1",
+      "brand": "X-Doria"
+    },
+    {
+      "id": 6,
+      "name": "Бампер для Apple Watch X-Doria Defense Edge Apple Watch 44mm розовое золото",
+      "price": "695",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/50125439b.jpg",
+      "url": "https://www.mvideo.ru/products/bamper-dlya-apple-watch-x-doria-defense-edge-apple-watch-44mm-rozovoe-zoloto-50125439",
+      "likes": "1",
+      "brand": "X-Doria"
+    },
+    {
+      "id": 7,
+      "name": "Смарт-часы Apple Watch S3 42mm Space Grey Al/Black Sport Band",
+      "price": "17490",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/30040330b.jpg",
+      "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-s3-42mm-space-grey-al-black-sport-band-30040330",
+      "likes": "51",
+      "brand": "Apple"
+    },
+    {
+      "id": 8,
+      "name": "Бампер для Apple Watch X-Doria Defense Edge Apple Watch 44mm черный",
+      "price": "1490",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/50125511b.jpg",
+      "url": "https://www.mvideo.ru/products/bamper-dlya-apple-watch-x-doria-defense-edge-apple-watch-44mm-chernyi-50125511",
+      "likes": "1",
+      "brand": "X-Doria"
+    },
+    {
+      "id": 9,
+      "name": "Смарт-часы Apple Watch S3 42mm Silver Al/White Sport Band",
+      "price": "17490",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/30040329b.jpg",
+      "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-s3-42mm-silver-al-white-sport-band-30040329",
+      "likes": "21",
+      "brand": "Apple"
+    },
+    {
+      "id": 10,
+      "name": "Ремешок Nomad Modern Strap 44/42mm, D.Brown/Silver (NM1A4RSM00)",
+      "price": "4890",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/50135882b.jpg",
+      "url": "https://www.mvideo.ru/products/remeshok-nomad-modern-strap-44-42mm-d-brown-silver-nm1a4rsm00--50135882",
+      "likes": "0",
+      "brand": "Nomad"
+    },
+    {
+      "id": 11,
+      "name": "Ремешок Nomad Modern Titanium Band 44/42mm, Black (NM1A44B000)",
+      "price": "15190",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/50135858b.jpg",
+      "url": "https://www.mvideo.ru/products/remeshok-nomad-modern-titanium-band-44-42mm-black-nm1a44b000--50135858",
+      "likes": "0",
+      "brand": "Nomad"
+    },
+    {
+      "id": 12,
+      "name": "Смарт-часы Apple Watch S5 40mm Gold Sport Band (MWV72RU/A)",
+      "price": "31990",
+      "thumb": "https://img.mvideo.ru/Pdb/small_pic/200/30045467b.jpg",
+      "url": "https://www.mvideo.ru/products/smart-chasy-apple-watch-s5-40mm-gold-sport-band-mwv72ru-a--30045467",
+      "likes": "19",
+      "brand": "Apple"
+    }
+  ],
+  "smartphones": [
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/01.webp",
+      "price": "61 900",
+      "title": "Смартфон Google Pixel 3 XL 128Gb Black (Черный)",
+      "inSolde": false
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/02.webp",
+      "price": "61 900",
+      "title": "Смартфон Google Pixel 3 XL 128Gb Black (Черный)",
+      "inSolde": false
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/03.webp",
+      "price": "68 990",
+      "title": "iPhone X 256GB как новый (серый космос)",
+      "inSolde": true
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/04.webp",
+      "price": "63 990",
+      "title": "Смартфон Apple iPhone X 64GB Silver (MQAD2RU/A)",
+      "inSolde": false
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/02.webp",
+      "price": "61 900",
+      "title": "Смартфон Google Pixel 3 XL 128Gb Black (Черный)",
+      "inSolde": false
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/03.webp",
+      "price": "68 990",
+      "title": "iPhone X 256GB как новый (серый космос)",
+      "inSolde": false
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/04.webp",
+      "price": "63 990",
+      "title": "Смартфон Apple iPhone X 64GB Silver (MQAD2RU/A)",
+      "inSolde": true
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/04.webp",
+      "price": "61 900",
+      "title": "Смартфон Google Pixel 3 XL 128Gb Black (Черный)",
+      "inSolde": false
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/03.webp",
+      "price": "68 990",
+      "title": "iPhone X 256GB как новый (серый космос)",
+      "inSolde": false
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/msi89/07shop/master/img/products/01.webp",
+      "price": "63 990",
+      "title": "Смартфон Apple iPhone X 64GB Silver (MQAD2RU/A)",
+      "inSolde": false
+    }
+  ]
+}
